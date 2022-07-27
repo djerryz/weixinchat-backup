@@ -1,4 +1,4 @@
-# 微信备份数据工具
+# 微信聊天数据备份
 
 **感谢项目[wechat-backup](https://github.com/greycodee/wechat-backup)实现的前端与接口逻辑，本项目大量参考并引用.**
 
