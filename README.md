@@ -44,6 +44,10 @@ ROOT手机 扫码 手机A的二维码， 即可完成迁移 ， 此时A手机会
 
 ## 四、数据备份并预览
 
+```
+git clone --recurse-submodules https://github.com/djerryz/weixinchat-backup.git
+```
+
 1. 初始化环境
 
    ```
