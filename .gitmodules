@@ -1,0 +1,3 @@
+[submodule "wechat-backup"]
+	path = wechat-backup
+	url = ./wechat-backup.git
